@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Dhritabrata Mitra and I am a Computer Science graduate from Michigan Technological University. I am a Full Stack Engineer and always look forward to learning new things.
+I am Dhritabrata Mitra and I am a Computer Science graduate from Michigan Technological University. I am a Full Stack Engineer and always looking forward to meet new people and learn new things.
 
 - 🔭 I’m currently working on Maxim, an AI-powered assistant aimed at simplifying and helping users performing their task on the web browser.
 - 🌱 I’m currently learning about AI agents which will help me complete my project.
