@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Dhritabrata Mitra and I am a Computer Science graduate from Michigan Technological University. I am a Full Stack Engineer and always look forward to learning new things.
+
+- 🔭 I’m currently working on Maxim, an AI-powered assistant aimed at simplifying and helping users performing their task on the web browser.
+- 🌱 I’m currently learning about AI agents which will help me complete my project.
+- ⚡I recently built a real time chat application called ChatAway. Similar to WhatsApp users can send text and images to their friends and family. You can test the app [here](https://chataway-refs.onrender.com/)
+- 📫 How to reach me: You can send me a mail at [dmitra2@mtu.edu](dmitra2@mtu.edu).
+
+
 <!--
 **dmitra1998/dmitra1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
